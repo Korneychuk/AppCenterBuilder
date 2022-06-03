@@ -1,0 +1,11 @@
+{
+    "AppCenter": {
+        "api_token": "439aa86c349b756c613048fd5f1c0d7536423f9a",
+        "owner_name": "sacreid",
+        "app_name": "UWPTestApp",
+        "host": "api.appcenter.ms",
+        "get_branches": "/v0.1/apps/%s/%s/branches",
+        "branch_builds": "/v0.1/apps/%s/%s/branches/%s/builds",
+        "build_log_url": "https://appcenter.ms/users/%s/apps/%s/build/branches/%s/builds/%s"
+    }
+}
